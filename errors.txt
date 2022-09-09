@@ -1,0 +1,74 @@
+ERROR:__main__:Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\seed_finder.py", line 232, in <module>
+    main()
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\seed_finder.py", line 106, in main
+    maze = Maze(width, height, rng)
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 819, in __init__
+    self.maze = self.maze_generator()
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 849, in maze_generator
+    temp = [each for each in walls if generated_maze[each[1]][each[0]] != "p"
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 850, in <listcomp>
+    and 1 <= each[0] <= self.width - 2 and 1 <= each[1] <= self.height - 2]
+KeyboardInterrupt
+ERROR:__main__:Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\seed_finder.py", line 232, in <module>
+    main()
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\seed_finder.py", line 106, in main
+    maze = Maze(width, height, rng)
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 819, in __init__
+    self.maze = self.maze_generator()
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 849, in maze_generator
+    temp = [each for each in walls if generated_maze[each[1]][each[0]] != "p"
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 850, in <listcomp>
+    and 1 <= each[0] <= self.width - 2 and 1 <= each[1] <= self.height - 2]
+KeyboardInterrupt
+ERROR:__main__:Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\seed_finder.py", line 232, in <module>
+    main()
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\seed_finder.py", line 106, in main
+    maze = Maze(width, height, rng)
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 824, in __init__
+    self.path = pygame.image.load(os.path.join(os.path.dirname(os.path.abspath(__file__)),
+KeyboardInterrupt
+ERROR:__main__:Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\seed_finder.py", line 232, in <module>
+    main()
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\seed_finder.py", line 106, in main
+    maze = Maze(width, height, rng)
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 819, in __init__
+    self.maze = self.maze_generator()
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 849, in maze_generator
+    temp = [each for each in walls if generated_maze[each[1]][each[0]] != "p"
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 849, in <listcomp>
+    temp = [each for each in walls if generated_maze[each[1]][each[0]] != "p"
+KeyboardInterrupt
+ERROR:__main__:Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\seed_finder.py", line 232, in <module>
+    main()
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\seed_finder.py", line 106, in main
+    maze = Maze(width, height, rng)
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 819, in __init__
+    self.maze = self.maze_generator()
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 849, in maze_generator
+    temp = [each for each in walls if generated_maze[each[1]][each[0]] != "p"
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 850, in <listcomp>
+    and 1 <= each[0] <= self.width - 2 and 1 <= each[1] <= self.height - 2]
+KeyboardInterrupt
+ERROR:__main__:Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\seed_finder.py", line 232, in <module>
+    main()
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\seed_finder.py", line 106, in main
+    maze = Maze(width, height, rng)
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 819, in __init__
+    self.maze = self.maze_generator()
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 849, in maze_generator
+    temp = [each for each in walls if generated_maze[each[1]][each[0]] != "p"
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 850, in <listcomp>
+    and 1 <= each[0] <= self.width - 2 and 1 <= each[1] <= self.height - 2]
+KeyboardInterrupt

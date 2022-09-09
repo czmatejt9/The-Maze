@@ -1,0 +1,1005 @@
+{
+  "endless_all": [
+    {
+      "_id": 1,
+      "place": 1,
+      "name": "czmatejt",
+      "score": 9682,
+      "seed": 181337636401180831,
+      "seed_type": "random",
+      "start": "2022/07/05 19:44:00",
+      "end": "2022/07/05 19:52:38",
+      "token": "189064"
+    },
+    {
+      "_id": 2,
+      "place": 2,
+      "name": "bot9",
+      "score": 9000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 3,
+      "place": 3,
+      "name": "bot8",
+      "score": 8000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 4,
+      "place": 4,
+      "name": "bot7",
+      "score": 7000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 5,
+      "place": 5,
+      "name": "bot6",
+      "score": 6000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 6,
+      "place": 6,
+      "name": "bot5",
+      "score": 5000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 7,
+      "place": 7,
+      "name": "bot4",
+      "score": 4000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 8,
+      "place": 8,
+      "name": "bot3",
+      "score": 3000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 9,
+      "place": 9,
+      "name": "bot2",
+      "score": 2000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    }
+  ],
+  "endless_all_custom": [
+    {
+      "_id": 1,
+      "place": 1,
+      "name": "bot9",
+      "score": 14000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 2,
+      "place": 2,
+      "name": "bot8",
+      "score": 13000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 3,
+      "place": 3,
+      "name": "bot7",
+      "score": 12000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 4,
+      "place": 4,
+      "name": "bot6",
+      "score": 11000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 5,
+      "place": 5,
+      "name": "bot5",
+      "score": 10000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 6,
+      "place": 6,
+      "name": "bot4",
+      "score": 9000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 7,
+      "place": 7,
+      "name": "bot3",
+      "score": 8000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 8,
+      "place": 8,
+      "name": "bot2",
+      "score": 7000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    },
+    {
+      "_id": 9,
+      "place": 9,
+      "name": "bot1",
+      "score": 6000,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "token": 0
+    }
+  ],
+  "speedrun_easy": [
+    {
+      "_id": 1,
+      "place": 1,
+      "name": "czmatejt",
+      "time": 41.594,
+      "level times": "['4.465', '6.297', '3.463', '13.455', '13.284']",
+      "seed": -6523250161529127489,
+      "seed_type": "random",
+      "start": "2022/07/05 19:34:55",
+      "end": "2022/07/05 19:35:37",
+      "token": "246956"
+    },
+    {
+      "_id": 2,
+      "place": 2,
+      "name": "bot1",
+      "time": 90,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 3,
+      "place": 3,
+      "name": "bot2",
+      "time": 105,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 4,
+      "place": 4,
+      "name": "bot3",
+      "time": 120,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 5,
+      "place": 5,
+      "name": "bot4",
+      "time": 135,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 6,
+      "place": 6,
+      "name": "bot5",
+      "time": 150,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 7,
+      "place": 7,
+      "name": "bot6",
+      "time": 165,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 8,
+      "place": 8,
+      "name": "bot7",
+      "time": 180,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 9,
+      "place": 9,
+      "name": "bot8",
+      "time": 195,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    }
+  ],
+  "speedrun_easy_custom": [
+    {
+      "_id": 1,
+      "place": 1,
+      "name": "",
+      "time": 18.646,
+      "level times": "['2.53', '3.674', '2.744', '4.44', '5.158']",
+      "seed": -2586215552215695584,
+      "seed_type": "custom",
+      "start": "2022/07/05 20:08:21",
+      "end": "2022/07/05 20:08:40",
+      "token": "312518"
+    },
+    {
+      "_id": 2,
+      "place": 2,
+      "name": "czmatejt",
+      "time": 18.697,
+      "level times": "['1.77', '3.742', '2.988', '4.088', '5.58']",
+      "seed": -2586215552215695584,
+      "seed_type": "custom",
+      "start": "2022/07/05 20:12:18",
+      "end": "2022/07/05 20:12:36",
+      "token": "116701"
+    },
+    {
+      "_id": 3,
+      "place": 3,
+      "name": "",
+      "time": 19.482,
+      "level times": "['1.696', '3.602', '2.897', '4.599', '5.741']",
+      "seed": -2586215552215695584,
+      "seed_type": "custom",
+      "start": "2022/07/05 20:13:47",
+      "end": "2022/07/05 20:14:07",
+      "token": "348199"
+    },
+    {
+      "_id": 4,
+      "place": 4,
+      "name": "",
+      "time": 19.494,
+      "level times": "['2.42', '3.732', '3.892', '3.903', '5.385']",
+      "seed": -2586215552215695584,
+      "seed_type": "custom",
+      "start": "2022/07/05 20:11:02",
+      "end": "2022/07/05 20:11:21",
+      "token": "348199"
+    },
+    {
+      "_id": 5,
+      "place": 5,
+      "name": "",
+      "time": 19.898,
+      "level times": "['2.43', '3.976', '3.505', '3.997', '5.568']",
+      "seed": -2586215552215695584,
+      "seed_type": "custom",
+      "start": "2022/07/05 20:06:20",
+      "end": "2022/07/05 20:06:40",
+      "token": "116711"
+    },
+    {
+      "_id": 6,
+      "place": 6,
+      "name": "czmatejt",
+      "time": 20.352,
+      "level times": "['2.12', '3.926', '2.941', '4.899', '6.149']",
+      "seed": -2586215552215695584,
+      "seed_type": "custom",
+      "start": "2022/07/05 19:36:08",
+      "end": "2022/07/05 19:36:28",
+      "token": "348239"
+    },
+    {
+      "_id": 7,
+      "place": 7,
+      "name": "",
+      "time": 20.361,
+      "level times": "['3.066', '3.694', '3.02', '4.727', '5.376']",
+      "seed": -2586215552215695584,
+      "seed_type": "custom",
+      "start": "2022/07/05 20:08:53",
+      "end": "2022/07/05 20:09:14",
+      "token": "138892"
+    },
+    {
+      "_id": 8,
+      "place": 8,
+      "name": "czmatejt",
+      "time": 20.642,
+      "level times": "['1.827', '4.28', '3.491', '4.694', '5.761']",
+      "seed": -2586215552215695584,
+      "seed_type": "custom",
+      "start": "2022/07/05 19:54:38",
+      "end": "2022/07/05 19:54:59",
+      "token": "163013"
+    },
+    {
+      "_id": 9,
+      "place": 9,
+      "name": "",
+      "time": 22.005,
+      "level times": "['3.129', '3.878', '3.027', '5.301', '6.04']",
+      "seed": -2586215552215695584,
+      "seed_type": "custom",
+      "start": "2022/07/05 20:10:10",
+      "end": "2022/07/05 20:10:32",
+      "token": "246926"
+    }
+  ],
+  "speedrun_normal": [
+    {
+      "_id": 1,
+      "place": 1,
+      "name": "bot1",
+      "time": 430,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 2,
+      "place": 2,
+      "name": "bot2",
+      "time": 460,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 3,
+      "place": 3,
+      "name": "bot3",
+      "time": 490,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 4,
+      "place": 4,
+      "name": "bot4",
+      "time": 520,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 5,
+      "place": 5,
+      "name": "bot5",
+      "time": 550,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 6,
+      "place": 6,
+      "name": "bot6",
+      "time": 580,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 7,
+      "place": 7,
+      "name": "bot7",
+      "time": 610,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 8,
+      "place": 8,
+      "name": "bot8",
+      "time": 640,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 9,
+      "place": 9,
+      "name": "bot9",
+      "time": 670,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    }
+  ],
+  "speedrun_normal_custom": [
+    {
+      "_id": 1,
+      "place": 1,
+      "name": "bot1",
+      "time": 330,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 2,
+      "place": 2,
+      "name": "bot2",
+      "time": 360,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 3,
+      "place": 3,
+      "name": "bot3",
+      "time": 390,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 4,
+      "place": 4,
+      "name": "bot4",
+      "time": 420,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 5,
+      "place": 5,
+      "name": "bot5",
+      "time": 450,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 6,
+      "place": 6,
+      "name": "bot6",
+      "time": 480,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 7,
+      "place": 7,
+      "name": "bot7",
+      "time": 510,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 8,
+      "place": 8,
+      "name": "bot8",
+      "time": 540,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 9,
+      "place": 9,
+      "name": "bot9",
+      "time": 570,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    }
+  ],
+  "speedrun_hard": [
+    {
+      "_id": 1,
+      "place": 1,
+      "name": "bot1",
+      "time": 960,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 2,
+      "place": 2,
+      "name": "bot2",
+      "time": 1020,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 3,
+      "place": 3,
+      "name": "bot3",
+      "time": 1080,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 4,
+      "place": 4,
+      "name": "bot4",
+      "time": 1140,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 5,
+      "place": 5,
+      "name": "bot5",
+      "time": 1200,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 6,
+      "place": 6,
+      "name": "bot6",
+      "time": 1260,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 7,
+      "place": 7,
+      "name": "bot7",
+      "time": 1320,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 8,
+      "place": 8,
+      "name": "bot8",
+      "time": 1380,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 9,
+      "place": 9,
+      "name": "bot9",
+      "time": 1440,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    }
+  ],
+  "speedrun_hard_custom": [
+    {
+      "_id": 1,
+      "place": 1,
+      "name": "bot1",
+      "time": 860,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 2,
+      "place": 2,
+      "name": "bot2",
+      "time": 920,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 3,
+      "place": 3,
+      "name": "bot3",
+      "time": 980,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 4,
+      "place": 4,
+      "name": "bot4",
+      "time": 1040,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 5,
+      "place": 5,
+      "name": "bot5",
+      "time": 1100,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 6,
+      "place": 6,
+      "name": "bot6",
+      "time": 1160,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 7,
+      "place": 7,
+      "name": "bot7",
+      "time": 1220,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 8,
+      "place": 8,
+      "name": "bot8",
+      "time": 1280,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 9,
+      "place": 9,
+      "name": "bot9",
+      "time": 1340,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    }
+  ],
+  "speedrun_full view": [
+    {
+      "_id": 1,
+      "place": 1,
+      "name": "bot1",
+      "time": 430,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 2,
+      "place": 2,
+      "name": "bot2",
+      "time": 460,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 3,
+      "place": 3,
+      "name": "bot3",
+      "time": 490,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 4,
+      "place": 4,
+      "name": "bot4",
+      "time": 520,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 5,
+      "place": 5,
+      "name": "bot5",
+      "time": 550,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 6,
+      "place": 6,
+      "name": "bot6",
+      "time": 580,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 7,
+      "place": 7,
+      "name": "bot7",
+      "time": 610,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 8,
+      "place": 8,
+      "name": "bot8",
+      "time": 640,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 9,
+      "place": 9,
+      "name": "bot9",
+      "time": 670,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    }
+  ],
+  "speedrun_full view_custom": [
+    {
+      "_id": 1,
+      "place": 1,
+      "name": "bot1",
+      "time": 330,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 2,
+      "place": 2,
+      "name": "bot2",
+      "time": 360,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 3,
+      "place": 3,
+      "name": "bot3",
+      "time": 390,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 4,
+      "place": 4,
+      "name": "bot4",
+      "time": 420,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 5,
+      "place": 5,
+      "name": "bot5",
+      "time": 450,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 6,
+      "place": 6,
+      "name": "bot6",
+      "time": 480,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 7,
+      "place": 7,
+      "name": "bot7",
+      "time": 510,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 8,
+      "place": 8,
+      "name": "bot8",
+      "time": 540,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    },
+    {
+      "_id": 9,
+      "place": 9,
+      "name": "bot9",
+      "time": 570,
+      "seed": 0,
+      "start": 0,
+      "end": 0,
+      "level times": "",
+      "token": 0
+    }
+  ]
+}

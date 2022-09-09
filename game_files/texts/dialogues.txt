@@ -1,0 +1,18 @@
+START:
+Spjata: Muhahahaha Po všech těch letech letech se mi to konečně povedlo, konečně jsem Tě porazil a unesl tvoji milovanou Kristýnku.
+Honza(ty): Kdo jsi? nic si nepamatuju.
+Spjata: Ty jsi mě nepamatuješ? Já jsem přece velký SPJÁŤA.
+Honza(ty): Nech Kristýnku na pokoji. Neboj se miláčku hned Tě osvobodím.
+Spjata: To se ti nikdy nepovede moje pevnost je nedobytná.
+START:
+END:
+Spjata: Cože?! Jak se ti povedlo projít přes všechny mé nástrahy?
+Honza(ty): To teď není důežité. Hlavně chci zpátky moji Kristýnku.
+Spjata: Dobře, ale nemysli si, že to bylo všechno co tě čeká. Nyní ti položím 3 otázky. Když odpovíš dobře, tak ti Kristýnku vrátím.
+Honza(ty): Dobře
+END:
+OTAZKY:
+V jakém okrese se nachází Borotín u Boskovic?=Blansko=Boskovice=Brno-Venkov
+V jaké nadmořské výšce se nachází Borotín u Boskovic?=420 m.n.m.=69 m.n.m.=666 m.n.m.
+Kolik obyvatel má Borotín u Boskovic?(1. 1. 2022)=421+=0-68=69-420
+OTAZKY:

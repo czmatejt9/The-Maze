@@ -1,0 +1,11 @@
+ERROR:__main__:Uncaught exception 2022/07/05 20:25:50
+Traceback (most recent call last):
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 1596, in <module>
+    main()
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 1524, in main
+    Main.endless_mode()
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 644, in endless_mode
+    state = cls.level(maze)
+  File "C:\Users\matej\OneDrive\Plocha\_python\big_projects\labyrint_hra\pygame_v\main.py", line 402, in level
+    ms = cls.clock.tick(cls.settings["max fps"])
+KeyboardInterrupt
