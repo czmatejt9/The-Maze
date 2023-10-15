@@ -1308,7 +1308,8 @@ class Database:
 
         try:
             state = Database("game_version", "game_version")
-        except pymongo.errors.ConfigurationError:
+        except pymongo.errors.ConfigurationError as e:
+            print(e)
             loading.text = "Couldn't connect, try again later"
             WINDOW.fill(COLORS["black"])
             loading.draw(WINDOW)
