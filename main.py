@@ -9,12 +9,12 @@ from datetime import datetime, timezone
 import webbrowser
 import logging
 import pygame
-from dotenv import load_dotenv
+from dotenv import main
 import pymongo
 from pymongo import MongoClient
 
 pygame.init()
-load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), "variables.env"))
+main.load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), "variables.env"))
 
 # for type hints
 RGB = tuple[int, int, int]
@@ -48,9 +48,10 @@ COLORS = {
     "dark_yellow": (246, 190, 0)
 }
 
-# creating game window, and other stuff
-WINDOW = pygame.display.set_mode((WIDTH, HEIGHT), pygame.SRCALPHA)
-pygame.display.set_caption(f"THE MAZE {VERSION}")
+if __name__ == "__main__":
+    # creating game window, and other stuff
+    WINDOW = pygame.display.set_mode((WIDTH, HEIGHT), pygame.SRCALPHA)
+    pygame.display.set_caption(f"THE MAZE {VERSION}")
 
 # sounds
 ALARM_SOUND = pygame.mixer.Sound(os.path.join(os.path.dirname(os.path.abspath(__file__)),
@@ -1308,8 +1309,7 @@ class Database:
 
         try:
             state = Database("game_version", "game_version")
-        except pymongo.errors.ConfigurationError as e:
-            print(e)
+        except pymongo.errors.ConfigurationError:
             loading.text = "Couldn't connect, try again later"
             WINDOW.fill(COLORS["black"])
             loading.draw(WINDOW)

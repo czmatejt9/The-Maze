@@ -8,7 +8,7 @@ from datetime import datetime
 from main import Maze
 import random
 import logging
-
+import multiprocessing
 
 EASY = (11, 7)
 NORMAL = (31, 17)
@@ -59,7 +59,7 @@ def find_neighbours(maze: list, row: int, col: int):
 
     return neighbours
 
-
+target_time = 1800  # 10 minutes
 def main():
     global best_best_easy
 
@@ -72,7 +72,6 @@ def main():
     best_normal = {"mode": "normal"}
     best_hard = {"mode": "hard"}
     best_full_view = {"mode": "full_view"}
-    target_time = int(input("enter target time: "))
     end = time.time() + target_time
     end = datetime.fromtimestamp(end).strftime("%H:%M:%S")
     print(f"finishes at {end}")
@@ -229,5 +228,11 @@ def handle_exception(exc_type, exc_value, exc_traceback):
 if __name__ == "__main__":
     sys.excepthook = handle_exception
     logging_setup()
-    main()
-
+    # use multiprocessing to run multiple instances of the main function
+    processes = []
+    for i in range(multiprocessing.cpu_count() - 1):
+        processes.append(multiprocessing.Process(target=main))
+        processes[-1].start()
+    for process in processes:
+        process.join()
+    print("done")
